@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi 👋 I'm Krishna Tiwari
@@ -226,6 +225,6 @@ Interested in
 ⭐ Thank you for visiting my profile!
 
 </div>
-```
+
 
 
