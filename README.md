@@ -1,57 +1,145 @@
+```md
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
-<h3 align="center">Software Developer | Open Source Contributor | JavaScript & C++ Enthusiast</h3>
+# Hi 👋 I'm Krishna Tiwari
 
-<p align="center">
-  <a href="https://github.com/krishna76-code">
-    <img src="https://komarev.com/ghpvc/?username=krishna76-code&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views"/>
-  </a>
-</p>
+### Software Engineer • Open Source Contributor • Full Stack Developer
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **JavaScript, React, C++, and System Design**
-- 🔭 Contributing to **Open Source Projects**
-- 💻 Passionate about **Frontend Development & Performance Optimization**
-- 📚 Solving **Data Structures & Algorithms** problems regularly
-- 🤝 Open to collaborating on JavaScript, React, and C++ projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Building+Scalable+Full-Stack+Applications;React+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;AI+Powered+Web+Applications;System+Design+Enthusiast" />
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,java,python" />
+
+<a href="https://github.com/krishna76-code">
+<img src="https://komarev.com/ghpvc/?username=krishna76-code&label=Profile+Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/krishna76-code?tab=followers">
+<img src="https://img.shields.io/github/followers/krishna76-code?label=Followers&style=flat&color=blue"/>
+</a>
+
 </p>
 
-### Frontend
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Final Year B.Tech Student at **NIT Jamshedpur**
+
+💼 Passionate Software Engineer focused on building scalable, secure, and production-ready web applications.
+
+🚀 Experienced in designing enterprise-grade full-stack systems using React, Node.js, Express, MongoDB, and modern software engineering practices.
+
+🤖 Interested in AI-powered applications, Retrieval-Augmented Generation (RAG), System Design, and Open Source.
+
+🌱 Always exploring better software architecture, clean code, and performance optimization.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=cpp,js,java,python"/>
+
 </p>
 
-### Tools & Technologies
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,postman" />
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
 </p>
 
 ---
 
-## 🌟 Open Source
+# 🚀 Featured Projects
 
-- 🚀 Active Open Source Contributor
-- 🔹 Contributing to ToolJet
-- 🔹 Learning React Performance Optimization
-- 🔹 Exploring scalable frontend architectures
+## 🏫 NIT Jamshedpur Placement Portal
+
+An enterprise-grade Placement Management Platform built for the Training & Placement Cell.
+
+### Highlights
+
+- AI Resume Analysis
+- ATS Score Generator
+- JWT Authentication
+- Role Based Access Control
+- Placement Analytics Dashboard
+- Smart Drive Filtering
+- Real-Time Notifications
+- Secure REST APIs
+- Light & Dark Theme
+- Mobile Responsive UI
+
+**Tech Stack**
+
+`React` • `Vite` • `Node.js` • `Express` • `MongoDB`
 
 ---
 
-## 📈 GitHub Stats
+## 🤖 SBVM AI School Platform
+
+An AI-powered School ERP integrating Retrieval-Augmented Generation (RAG), Vector Search, and Gemini AI.
+
+### Highlights
+
+- AI Admission Counselor
+- ChromaDB Vector Database
+- Gemini API Integration
+- Local Embeddings
+- Student Portal
+- Parent Dashboard
+- Teacher Management
+- Scholarship Engine
+- AI Gallery Captioning
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB` • `ChromaDB` • `Gemini API`
+
+---
+
+# 🌍 Open Source
+
+🚀 Active Open Source Contributor
+
+Currently contributing to projects including:
+
+- ToolJet
+- JavaScript Ecosystem
+- React Community
+
+Interested in
+
+- Frontend Performance
+- Developer Experience
+- Bug Fixes
+- Feature Development
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -63,7 +151,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -73,7 +161,7 @@
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -83,27 +171,39 @@
 
 ---
 
-## 🎯 Current Goals
+# 🏆 Achievements
 
-- ✅ Contribute to major open-source projects
-- ✅ Build production-ready full-stack applications
-- ✅ Strengthen DSA and System Design
-- ✅ Learn scalable software architecture
-- ✅ Collaborate with developers worldwide
+🏅 Open Source Contributor
 
----
+💻 Built Enterprise-grade MERN Applications
 
-## 🏆 Achievements
+🤖 Developed AI-powered RAG Applications
 
-- 🌟 Open Source Contributor
-- 💻 Passionate about clean code and performance optimization
-- 📚 Continuous learner and problem solver
+📚 Strong Interest in System Design
+
+🚀 Passionate about Clean Architecture
+
+🔒 Experience implementing Authentication & Security Best Practices
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 Current Focus
 
-<p align="left">
+- Building Production-Ready Full Stack Applications
+
+- Open Source Contributions
+
+- Advanced System Design
+
+- Backend Engineering
+
+- AI Integration into Modern Web Applications
+
+---
+
+# 🤝 Connect With Me
+
+<p>
 
 <a href="https://github.com/krishna76-code">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -117,10 +217,15 @@
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> **"Code consistently. Learn continuously. Contribute meaningfully."**
+### 💡
 
-⭐ If you like my work, consider starring my repositories and connecting with me!
+> *"Great software isn't just about writing code—it's about solving real problems with thoughtful engineering."*
+
+⭐ Thank you for visiting my profile!
+
+</div>
 ```
+
 
