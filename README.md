@@ -1,95 +1,72 @@
 <div align="center">
 
-# Hi 👋 I'm Krishna Tiwari
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" />
 
-### Software Engineer • Open Source Contributor • Full Stack Developer
+<h1>Hi 👋, I'm Krishna Tiwari</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Building+Scalable+Full-Stack+Applications;React+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;AI+Powered+Web+Applications;System+Design+Enthusiast" />
+<h3>Software Developer | Open Source Contributor | JavaScript & C++ Enthusiast</h3>
 
-<p>
-
-<a href="https://github.com/krishna76-code">
-<img src="https://komarev.com/ghpvc/?username=krishna76-code&label=Profile+Views&color=0e75b6&style=flat"/>
-</a>
-
-<a href="https://github.com/krishna76-code?tab=followers">
-<img src="https://img.shields.io/github/followers/krishna76-code?label=Followers&style=flat&color=blue"/>
-</a>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech Student at **NIT Jamshedpur**
-
-💼 Passionate Software Engineer focused on building scalable, secure, and production-ready web applications.
-
-🚀 Experienced in designing enterprise-grade full-stack systems using React, Node.js, Express, MongoDB, and modern software engineering practices.
-
-🤖 Interested in AI-powered applications, Retrieval-Augmented Generation (RAG), System Design, and Open Source.
-
-🌱 Always exploring better software architecture, clean code, and performance optimization.
+- 🎓 Final Year **B.Tech Student @ NIT Jamshedpur**
+- 💻 Passionate about building scalable Full Stack Applications
+- 🌱 Currently exploring **System Design, AI Applications, and Backend Engineering**
+- 🤝 Active Open Source Contributor
+- 📚 Regularly solving Data Structures & Algorithms
+- 🚀 Interested in Software Architecture & Performance Optimization
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,js,java,python"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,js,java,python" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-## Backend
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-## Tools
+### Tools & Technologies
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🏫 NIT Jamshedpur Placement Portal
 
-An enterprise-grade Placement Management Platform built for the Training & Placement Cell.
+Enterprise-grade placement management platform for the Training & Placement Cell.
 
 ### Highlights
 
-- AI Resume Analysis
-- ATS Score Generator
-- JWT Authentication
-- Role Based Access Control
-- Placement Analytics Dashboard
-- Smart Drive Filtering
-- Real-Time Notifications
-- Secure REST APIs
-- Light & Dark Theme
-- Mobile Responsive UI
+- 🤖 AI Resume Analysis
+- 📄 ATS Resume Score
+- 🔐 JWT Authentication
+- 📊 Analytics Dashboard
+- 🎯 Smart Drive Filtering
+- 🔔 Real-Time Notifications
+- 🌙 Dark & Light Theme
+- 📱 Fully Responsive
 
 **Tech Stack**
 
@@ -99,46 +76,34 @@ An enterprise-grade Placement Management Platform built for the Training & Place
 
 ## 🤖 SBVM AI School Platform
 
-An AI-powered School ERP integrating Retrieval-Augmented Generation (RAG), Vector Search, and Gemini AI.
+AI-powered School ERP integrating RAG, ChromaDB, and Gemini AI.
 
 ### Highlights
 
-- AI Admission Counselor
-- ChromaDB Vector Database
-- Gemini API Integration
-- Local Embeddings
-- Student Portal
-- Parent Dashboard
-- Teacher Management
-- Scholarship Engine
-- AI Gallery Captioning
+- 🤖 AI Admission Counselor
+- 🧠 Gemini AI
+- 🔍 ChromaDB Vector Database
+- 🎓 Student Portal
+- 👨‍🏫 Teacher Dashboard
+- 👨‍👩‍👧 Parent Dashboard
+- 🎯 Scholarship Engine
 
 **Tech Stack**
 
-`React` • `Node.js` • `MongoDB` • `ChromaDB` • `Gemini API`
+`React` • `Node.js` • `MongoDB` • `Gemini API`
 
 ---
 
 # 🌍 Open Source
 
-🚀 Active Open Source Contributor
-
-Currently contributing to projects including:
-
-- ToolJet
-- JavaScript Ecosystem
-- React Community
-
-Interested in
-
-- Frontend Performance
-- Developer Experience
-- Bug Fixes
-- Feature Development
+- 🚀 Active Open Source Contributor
+- 🔹 Contributing to ToolJet
+- 🔹 Learning React Performance Optimization
+- 🔹 Exploring scalable frontend architectures
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -160,7 +125,7 @@ Interested in
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -170,39 +135,38 @@ Interested in
 
 ---
 
-# 🏆 Achievements
+# 🐍 Contribution Snake
 
-🏅 Open Source Contributor
+<p align="center">
 
-💻 Built Enterprise-grade MERN Applications
+<img src="https://raw.githubusercontent.com/krishna76-code/krishna76-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-🤖 Developed AI-powered RAG Applications
-
-📚 Strong Interest in System Design
-
-🚀 Passionate about Clean Architecture
-
-🔒 Experience implementing Authentication & Security Best Practices
+</p>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Goals
 
-- Building Production-Ready Full Stack Applications
+- ✅ Contribute to major Open Source projects
+- ✅ Build production-ready Full Stack applications
+- ✅ Strengthen DSA & System Design
+- ✅ Learn scalable software architecture
+- ✅ Collaborate with developers worldwide
 
-- Open Source Contributions
+---
 
-- Advanced System Design
+# 🏆 Achievements
 
-- Backend Engineering
-
-- AI Integration into Modern Web Applications
+- 🌟 Open Source Contributor
+- 💻 Built Enterprise-grade MERN Applications
+- 🤖 Developed AI-powered Applications
+- 📚 Continuous learner in System Design & Software Engineering
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://github.com/krishna76-code">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -218,13 +182,12 @@ Interested in
 
 <div align="center">
 
-### 💡
+## 💡 Quote
 
-> *"Great software isn't just about writing code—it's about solving real problems with thoughtful engineering."*
+> **"Code consistently. Learn continuously. Build software that makes an impact."**
 
-⭐ Thank you for visiting my profile!
+⭐ If you like my work, consider starring my repositories!
 
 </div>
-
 
 
